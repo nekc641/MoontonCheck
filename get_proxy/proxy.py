@@ -8,10 +8,10 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : proxy.py                                #
-# Author         : DulLah & RayRz7                         #
+# Author         : DulLah & JavaXploiter                   #
 # Github         : https://github.com/JawaTengahXploit1337 #
-# Website        : https://s.id/HAXOR                      #
-# Donasi         : https://saweria.co/rayyhaxor            #
+# Website        : https://javastore.my.id                 #
+# Donasi         : https://saweria.co/AsmaraHancur         #
 # Python version : 3.7++                                   #
 ############################################################
 
